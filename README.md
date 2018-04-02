@@ -1,8 +1,6 @@
 In short -> this allows searching text among many screenshots   
 
-In order to help seo and increase search engine accessibility (Also this is one of the many ways I tried to search the internet to find this software) :
-
-Description: to search text in a batch of screenshots OR ocr a batch of screenshots.
+In order to help seo and increase search engine accessibility (Also this is one of the many ways I tried to search the internet to find this software) : 'to search text in a batch of screenshots OR ocr a batch of screenshots'
 
 
 
