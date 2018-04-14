@@ -18,7 +18,7 @@ In order to help seo and increase search engine accessibility (Also this is one 
 ```bash
 $ sudo apt update 
 $ sudo apt-get install tesseract-ocr
-$ git clone https://github.com/mehul-goel/screenshot.ocr.search.robust
+$ git clone https://github.com/MehulGoel1/batch.screenshot.text.search.ocr.robust
 $ cd screenshot.ocr.search.robust/
 ```
 
@@ -46,7 +46,6 @@ Screenshot_171.png
 
 ### Working
 
-In detail : 
 - This facilitates searching text among all screenshots contained in any given folder. The folder can also have other types of files as well. 
 
 - When any of the screenshots are deleted from this folder its corresponding ocr text file are archived.
