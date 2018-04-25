@@ -1,3 +1,6 @@
+<!---
+
+
 This allows to search text among all the image (screenshot) files in a specified folder and it returns a list of file names in which all, it found the text. It runs ocr always on just the newly added files for lesser time consumption. When any screenshots or images are removed from the folder thier corresponding text file is archived not deleted, and hence they not searched for the text.
 
 
@@ -64,3 +67,4 @@ Use the [issue tracker](https://github.com/mehul-goel/screenshot.ocr.search.robu
 Open sourced under the **MIT License**
 
 search text in a batch of screenshots ocr a batch of screenshots search text in images. Written just to increase search engine accessibility (Also this is one of the many ways I tried to search the internet to find this software)
+-->
