@@ -1,5 +1,5 @@
 
-This allows to search text among all the image (screenshot) files in a specified folder and it returns a list of file names in which all, it found the text. It runs ocr always on just the newly added files for lesser time consumption. When any screenshots or images are removed from the folder thier corresponding text file is archived not deleted, and hence they not searched for the text.
+This allows to search text among all the images (including screenshots) in a specified folder and it returns a list of file names in which all, it found the text. It runs ocr always on just the newly added files for lesser time consumption. When any screenshots or images are removed from the folder thier corresponding text file is archived not deleted, and hence they not searched for the text.
 
 
 ## Demo  'to be posted later' :point_left:
